@@ -1,5 +1,4 @@
 # lego_smart_lock
 LEGOで作るスマートロックのソースコードです。
 
-解説記事公開準備中です。
-少々お待ちください。
+ハードウェアとソフトウェアの解説記事はこちら: https://qiita.com/sonoisa/items/cf0bc6c0ed4d244407b4
